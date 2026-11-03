@@ -14,7 +14,7 @@ echo "Su ganancia es de " . $udsolo ;
     <br>
     <br>
 <!-- Un boton para volver xD -->
-    <a href="Ej1.html" ><button style="color: black;">Volver</button> </a> 
+    <a href="Ej2.html" ><button style="color: black;">Volver</button> </a> 
 
 </body>
 </html>
