@@ -1,5 +1,14 @@
 <?php
 
+$Ue=$_POST["Ue"];
+
+
+$Upi=$Ue * 3.27;
+$Upl=$Ue * 39.27;
+
+echo $Ue . " Metros equivale a " . $Upi ." pies ". "<br>";
+echo $Ue . " Metros equivale a " . $Upl ." pulgadas ";
+
 
 ?>
 
