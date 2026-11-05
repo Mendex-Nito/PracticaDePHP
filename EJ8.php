@@ -1,5 +1,14 @@
 <?php
 
+$a=$_POST["a"];
+$b=$_POST["b"];
+$c=$_POST["c"];
+$p=($a+$b+$c)/2;
+$Ar=($p*($p-$a)*($p-$b)*($p-$c))**0.5;
+
+echo "El area del triangulo es : ". $Ar;
+
+
 
 ?>
 
